@@ -1,5 +1,4 @@
-# Machine Learning - Projects
+# Google Play Store data analysis
 
-This directory consists of below mentioned projects :
 
-## Index 
+
